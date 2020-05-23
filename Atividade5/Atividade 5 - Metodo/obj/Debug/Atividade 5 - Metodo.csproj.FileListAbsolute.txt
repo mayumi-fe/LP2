@@ -1,0 +1,13 @@
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\bin\Debug\Atividade 5 - Metodo.exe.config
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\bin\Debug\Atividade 5 - Metodo.exe
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\bin\Debug\Atividade 5 - Metodo.pdb
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade 5 - Metodo.csprojAssemblyReference.cache
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade_5___Metodo.frmPrincipal.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade_5___Metodo.frmExercício2.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade_5___Metodo.frmExercício3.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade_5___Metodo.Properties.Resources.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade 5 - Metodo.csproj.GenerateResource.cache
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade 5 - Metodo.exe
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade 5 - Metodo.pdb
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade_5___Metodo.frmExercício4.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 5 - Metodo\Atividade 5 - Metodo\obj\Debug\Atividade_5___Metodo.frmExercício5.resources
