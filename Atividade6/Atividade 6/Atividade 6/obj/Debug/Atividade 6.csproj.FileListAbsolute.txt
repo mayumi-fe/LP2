@@ -1,0 +1,13 @@
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe.config
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\bin\Debug\Atividade 6.pdb
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csprojAssemblyReference.cache
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmPrincipal.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício1.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade_6.Properties.Resources.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.GenerateResource.cache
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade 6.exe
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade 6.pdb
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício2.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício3.resources
+C:\Users\mayum\OneDrive\Área de Trabalho\FERNANDA\2 semestre\LP2\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício4.resources
